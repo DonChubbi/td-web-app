@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>tela2</finalName>
+		<finalName>spaceburn</finalName>
 		
 		<plugins>
 			<plugin>
