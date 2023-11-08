@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>tesla-App11</finalName>
+		<finalName>tela2</finalName>
 		
 		<plugins>
 			<plugin>
